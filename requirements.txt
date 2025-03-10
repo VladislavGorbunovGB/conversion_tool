@@ -1,0 +1,6 @@
+json
+streamlit
+base64
+numpy
+matplotlib
+scipy
