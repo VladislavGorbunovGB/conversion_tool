@@ -1,0 +1,34 @@
+{
+    "samples": [
+        {
+            "name": "Sample 1",
+            "color": "#d200ff",
+            "line_type": "solid",
+            "time": "[0, 1, 2, 3, 4]",
+            "removal": "[0, 17, 29, 35, 39]",
+            "show_line": true,
+            "line_label": "PW"
+        },
+        {
+            "name": "Sample 2",
+            "color": "#0000FF",
+            "line_type": "solid",
+            "time": "[0, 1, 2, 3, 4]",
+            "removal": "[0, 12, 24, 28, 28]",
+            "show_line": true,
+            "line_label": "RTA"
+        },
+        {
+            "name": "Sample 3",
+            "color": "#008011",
+            "line_type": "solid",
+            "time": "[0, 1, 2, 3, 4]",
+            "removal": "[0, 17, 26, 30, 34]",
+            "show_line": true,
+            "line_label": "PWB"
+        }
+    ],
+    "title": "Substrate Removal Over Time",
+    "noise_level": 0.1,
+    "error": 3.0
+}
