@@ -1,5 +1,6 @@
-streamlit
 base64
 numpy
-matplotlib
 scipy
+streamlit==1.10.0
+matplotlib==3.5.1
+pandas==1.4.0
